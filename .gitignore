@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PLC IDE build/temp files
+*.bak
+*.~*
+*.compileinfo
+*.precompilecache
+*.opt
+*.tmp
+*.bootinfo
+*.bootinfo_guids
+*.~u
+build/
